@@ -1,24 +1,46 @@
-<div align="center">
-  
-### Yo, I'm Samuel 👋
-  
-> I'm a Frontend developer who loves to transform designs into code and mess around with it on multiple screens, browsers.. you probably know the drill. I'm really passionate about web standards and associated technologies, besides that I love to play with data structures, algorithms and a bit of networking.
+<h1 align="center">
+  Hi, I'm Sam 👋
+</h1>
 
-<br>
+<p align="center">
+  <a href="https://github.com/samuelsilvadev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Frontend+Developer+%7C+React+%7C+TypeScript;Lover+of+clean+code+and+modern+UX!">
+  </a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-samuelsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-silva-olv/)](https://www.linkedin.com/in/samuel-silva-olv/)
-![Twitter Follow](https://img.shields.io/twitter/follow/samuelsilvadev?style=flat-square)
+---
 
-<br>
+## 💻 About Me
 
-#### My Current Tech Stack
+I'm a passionate **Frontend Developer** who loves building clean, fast, and accessible web interfaces.
 
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Javascript](http://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=ffffff)
-![Typescript](http://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=Typescript&logoColor=ffffff)
-![Jest](http://img.shields.io/badge/-Jest-darkred?style=flat-square&logo=Jest&logoColor=ffffff)
+I focus on:
+- ✨ Transforming designs into real apps, currently most focused in React, TypeScript, and CSS
+- 🧪 Writing reliable tests and scalable components
+- 🧠 Exploring algorithms, performance tricks, and networking fundamentals
 
+Currently experimenting with **design systems** and optimizing **developer experience**.
 
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsilvadev&show_icons=true&layout=compact&langs_count=8">
+---
 
-</div>
+## 🛠️ Tech Stack
+
+| Frontend     | Testing       | Styling       | Tools        |
+|--------------|---------------|----------------|--------------|
+| React, TypeScript, JS | Jest, Vitest, Testing Library | CSS, Sass | npm, yarn, pnpm, vite, zed |
+
+---
+
+## 📊 GitHub Stats & Usage
+
+| Most Used Languages | GitHub Stats |
+|---------------------|--------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsilvadev&layout=compact&theme=dark&hide=scss,astro&langs_count=6) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelsilvadev&show_icons=true&theme=dark) |
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [https://samuelsilvadev.github.io/](https://samuelsilvadev.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-silva-olv/)
+- 🐦 [Twitter](https://twitter.com/samuelsilvadev)
